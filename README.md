@@ -1,7 +1,7 @@
 Hello👋🏾, my name is Rajiv Wallace
 ==============================
 
-Junior Software Engineer
+Software Engineer
 ------------------------
 
 I have been learning to code full time since July 2022 after switching careers. The main resources I've been using on my journey are HarvardX CS50 and ZerotoMastery: Complete Python Developer & Complete Web Developer Series. Through these, I continue to gain a better understanding of Data Structures & Algorithms as well as improve my command of programming syntax and writing neat, efficient code.
