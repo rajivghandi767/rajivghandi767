@@ -4,13 +4,13 @@ Hello👋🏾, my name is Rajiv Wallace
 Software Engineer
 ------------------------
 
-I have been learning to code full time since July 2022 after switching careers. The main resources I've been using on my journey are HarvardX CS50 and ZerotoMastery: Complete Python Developer & Complete Web Developer Series. Through these, I continue to gain a better understanding of Data Structures & Algorithms as well as improve my command of programming syntax and writing neat, efficient code.
+I have been learning to code since July 2022 after switching careers. The main resources I've been using are HarvardX CS50 and ZerotoMastery: Complete Python Developer & Complete Web Developer Series. Through these, I continue to gain a better understanding of Data Structures & Algorithms as well as improve my command of programming syntax and writing neat, efficient code.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rajivghandi972@gmail.com](mailto:rajivghandi972@gmail.com)
-* 🧠  I'm learning C & Python
-* 🤝  I'm open to collaborating on everything, although something in the travel ✈️ / points & miles 💳 space would be nice 😁
-* ⚡  Chelsea FC Supporter 🔵⚽️ | Proud Member of the Orange Army 🏎🦁🇳🇱
+* 🧠  I'm learning Python & Javascript
+* 🤝  I'm open to collaborating on everything, although something in the travel ✈️ / points & miles finance 💳 space would be nice 😁
+* ⚡  Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱
 
 ### Skills
 
