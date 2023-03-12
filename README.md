@@ -8,7 +8,7 @@ I have been learning to code since July 2022 after switching careers. The main r
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rajivghandi972@gmail.com](mailto:rajivghandi972@gmail.com)
-* 🧠  I'm learning Python & Javascript
+* 🧠  I'm improving my Python skills
 * 🤝  I'm open to collaborating on everything, although something in the travel ✈️ / points & miles finance 💳 space would be nice 😁
 * ⚡  Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱
 
