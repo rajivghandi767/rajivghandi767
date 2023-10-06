@@ -12,7 +12,7 @@ I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years
 * 🧠 I'm learning Django, React
 * 🤝🏾 I'm open to collaborating on 🤝 I'm open to collaborating on everything, although something in the travel 
      ✈️ / points & miles finance 💳 space would be nice 😁
-* ⚡ Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱### Skills 
+* ⚡ Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱 
 
 ### Skills
 
