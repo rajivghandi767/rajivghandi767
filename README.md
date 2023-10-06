@@ -33,9 +33,3 @@ I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years
 <a href="http://www.github.com/rajivghandi767"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivghandi767&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/rajivghandi767" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivghandi767&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rajivghandi767/CountryTrivia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=CountryTrivia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rajivghandi767/CountryTrivia-DRF-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=CountryTrivia-DRF-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
-
-<div width="100%" align="center"><a href="https://github.com/rajivghandi767/SimplyMiles_OfferBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=SimplyMiles_OfferBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
