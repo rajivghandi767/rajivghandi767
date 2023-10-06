@@ -8,11 +8,11 @@ I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years
 
 * 🌍 I'm based in Kingston, New York
 * ✉️ You can contact me at [rajivghandi972@gmail.com](mailto:rajivghandi972@gmail.com)
-*   🚀  I'm currently working on [Country Trivia CLI App](http://github.com/rajivghandi767/CountryTrivia), [Country Trivia Web App](http://github.com/rajivghandi767/CountryTrivia+DRF+React) & [Bonus Mile Activator](http://github.com/rajivghandi767/SimplyMiles_OfferBot)
-*   🧠  I'm learning Django, React
-*   🤝  I'm open to collaborating on 🤝 I'm open to collaborating on everything, although something in the travel 
-        ✈️ / points & miles finance 💳 space would be nice 😁
-*   ⚡   Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱### Skills 
+* 🚀 I'm currently working on [Country Trivia CLI App](http://github.com/rajivghandi767/CountryTrivia), [Country Trivia Web App](http://github.com/rajivghandi767/CountryTrivia+DRF+React) & [Bonus Mile Activator](http://github.com/rajivghandi767/SimplyMiles_OfferBot)
+* 🧠 I'm learning Django, React
+* 🤝🏾 I'm open to collaborating on 🤝 I'm open to collaborating on everything, although something in the travel 
+     ✈️ / points & miles finance 💳 space would be nice 😁
+* ⚡ Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱### Skills 
 
 ### Skills
 
