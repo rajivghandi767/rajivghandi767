@@ -38,6 +38,8 @@ I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rajivghandi767/CountryTrivia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=CountryTrivia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rajivghandi767/CountryTrivia+DRF+React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=CountryTrivia-DRF-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/rajivghandi767/CountryTrivia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=CountryTrivia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rajivghandi767/CountryTrivia-DRF-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=CountryTrivia-DRF-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/rajivghandi767/SimplyMiles_OfferBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivghandi767&repo=SimplyMiles_OfferBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
