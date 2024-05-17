@@ -1,14 +1,14 @@
-Hello👋🏾, my name is Rajiv Wallace
+Hello👋🏾, my name is Rajiv Wallace 🇩🇲
 ==============================
 
-Software Engineer
------------------
+Software Engineer & Web Developer
+---------------------------------
 
-I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years of experience in data collection, analysis, and presentation. About 1 year experience in object-oriented programming (Python) and seeking roles in a cooperative team environment that applies engineering principles to complex problems. I am targeting opportunities to learn and adopt relevant new technologies
+I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years of experience in data collection, analysis, and presentation. Experience in Python, JS & TS and seeking roles in a cooperative team environment that applies engineering principles to complex problems. I am targeting opportunities to learn and adopt relevant new technologies.
 
 * 🌍 I'm based in Kingston, New York
 * ✉️ You can contact me at [rajivghandi972@gmail.com](mailto:rajivghandi972@gmail.com)
-* 🚀 I'm currently working on [Country Trivia CLI App](http://github.com/rajivghandi767/country-trivia) & [Country Trivia Web App](http://github.com/rajivghandi767/country-trivia-react)
+* 🚀 I'm currently working on [Country Trivia CLI App](http://github.com/rajivghandi767/country-trivia) , [Country Trivia Web App](http://github.com/rajivghandi767/country-trivia-react) & my [Portfolio Website (https://github.com/rajivghandi767/portfolio-website)
 * 🧠 I'm learning Django, React & TypeScript
 * 🤝🏾 I'm open to collaborating on 🤝 I'm open to collaborating on everything, although something in the travel 
      ✈️ / points & miles finance 💳 space would be nice 😁
