@@ -8,7 +8,7 @@ I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years
 
 * 🌍 I'm based in New York City
 * ✉️ You can contact me at [rajivghandi972@gmail.com](mailto:rajivghandi972@gmail.com)
-* 🚀 I'm currently working on [Country Trivia Web App](http://github.com/rajivghandi767/country-trivia-web) & my [Portfolio Website](https://github.com/rajivghandi767/portfolio-website). Everything is contiainerized and locally hosted on a Raspberry Pi with [this](http://github.com/rajivghandi767/home-lab-infrastructure) setup!
+* 🚀 I'm currently working on [Country Trivia Web App](http://github.com/rajivghandi767/country-trivia-web) & my [Portfolio Website](https://github.com/rajivghandi767/portfolio-website). Everything is contiainerized and locally hosted on a Raspberry Pi with [this](http://github.com/rajivghandi767/homelab-iac) setup!
 * 🧠 I'm learning Python, Django, React & TypeScript
 * 🤝🏾 I'm open to collaborating on 🤝 I'm open to collaborating on everything, although something in the travel 
      ✈️ / points & miles finance 💳 space would be nice 😁
