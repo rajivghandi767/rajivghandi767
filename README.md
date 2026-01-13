@@ -1,35 +1,99 @@
-Hello👋🏾, my name is Rajiv Wallace 🇩🇲
-==============================
+<div align="center">
 
-Software Engineer | Web Development | DevOps
----------------------------------
+# Hello, I'm Rajiv Wallace 🇩🇲
+### Software Engineer | Full Stack Developer | DevOps Enthusiast
 
-I am an Ex-Academic Researcher and NYC Environmental Inspector with over 4 years of experience in data collection, analysis, and presentation. Experience in Python, JS & TS and seeking roles in a cooperative team environment that applies engineering principles to complex problems. I am targeting opportunities to learn and adopt relevant new technologies.
+<a href="https://www.linkedin.com/in/rajiv-wallace">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:rajivghandi972@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://rajivwallace.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
 
-* 🌍 I'm based in New York City
-* ✉️ You can contact me at [rajivghandi972@gmail.com](mailto:rajivghandi972@gmail.com)
-* 🚀 I'm currently working on [Country Trivia Web App](http://github.com/rajivghandi767/country-trivia-web) & my [Portfolio Website](https://github.com/rajivghandi767/portfolio-website). Everything is contiainerized and locally hosted on a Raspberry Pi with [this](http://github.com/rajivghandi767/homelab-iac) setup!
-* 🧠 I'm learning Python, Django, React & TypeScript
-* 🤝🏾 I'm open to collaborating on 🤝 I'm open to collaborating on everything, although something in the travel 
-     ✈️ / points & miles finance 💳 space would be nice 😁
-* ⚡ Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱 
+<br />
 
-### Tech Stack
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+<p align="center">
+  <em>
+    Software Engineer leveraging a background in scientific research to build robust, self-hosted systems. I combine analytical rigor with a passion for infrastructure and automation. Based in New York City. 🌍
+  </em>
 </p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/rajivghandi767" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rajiv-wallace" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 👨🏾‍💻 About Me
 
-<b>My GitHub Stats</b>
+I am a self-taught Software Engineer with over 4 years of previous experience in data collection and analysis as an NYC Environmental Inspector. I apply that same engineering discipline to software development. 
 
-<a href="http://www.github.com/rajivghandi767"><img src="https://github-readme-stats.vercel.app/api?username=rajivghandi767&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rajivghandi767's GitHub stats" /></a>
+I don't just write code; I build systems. My applications are **containerized, CI/CD integrated, and self-hosted** on a custom home lab infrastructure. I am passionate about Python, Django, and the React ecosystem, and I am currently seeking roles that offer mentorship and the opportunity to tackle complex engineering problems.
 
-<a href="http://www.github.com/rajivghandi767"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivghandi767&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+* 🔭 **Currently working on:** Enhancing my [Country Trivia App](https://github.com/rajivghandi767/country-trivia-web) with AI features.
+* 🧠 **Learning:** Advanced TypeScript patterns & Data Structures/Algorithms.
+* 🤝 **Open to collaboration on:** Projects involving Travel Tech ✈️ or FinTech (Points & Miles) 💳.
+* ⚡ **Fun facts:** Avid Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱 (Max Verstappen / Red Bull).
 
-<a href="https://github.com/rajivghandi767" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivghandi767&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🛠️ Technical Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_DietPi-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Country Trivia Web](https://github.com/rajivghandi767/country-trivia-web)** | A full-stack trivia application allowing users to test their knowledge of world capitals and flags. Features user accounts and score tracking. | `Django` `React` `PostgreSQL` `Docker` |
+| **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` |
+| **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `React` `TypeScript` `Django` `Nginx` |
+| **[Country Trivia CLI](https://github.com/rajivghandi767/country-trivia-cli)** | A command-line interface version of the trivia game, demonstrating core Python logic and data handling. | `Python` `SQLite` `Click` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajivghandi767&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivghandi767&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="150" alt="languages graph" />
+</div>
+<br />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivghandi767&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak graph" />
+</div>
