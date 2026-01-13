@@ -32,9 +32,9 @@ I am a self-taught Software Engineer with over 4 years of previous experience in
 I don't just write code; I build systems. My applications are **containerized, CI/CD integrated, and self-hosted** on a custom home lab infrastructure. I am passionate about Python, Django, and the React ecosystem, and I am currently seeking roles that offer mentorship and the opportunity to tackle complex engineering problems.
 
 * 🔭 **Currently working on:** Enhancing my [Country Trivia App](https://github.com/rajivghandi767/country-trivia-web) with AI features.
-* 🧠 **Learning:** Advanced TypeScript patterns & Data Structures/Algorithms.
-* 🤝 **Open to collaboration on:** Projects involving Travel Tech ✈️ or FinTech (Points & Miles) 💳.
-* ⚡ **Fun facts:** Avid Chelsea FC Supporter 🔵⚽️ | Formula 1 Fan 🏎🦁🇳🇱 (Max Verstappen / Red Bull).
+* 🧠 **Learning:** Advanced Python patterns & Data Structures/Algorithms.
+* 🤝 **Open to collaboration on:** Projects involving Travel ✈️, Tech or FinTech (Points & Miles) 💳.
+* ⚡ **Fun facts:** Avid Formula 1 Fan 🏎🦁🇳🇱 (Max Verstappen / Red Bull) | Chelsea FC Supporter 🔵⚽️.
 
 ---
 
@@ -53,13 +53,11 @@ I don't just write code; I build systems. My applications are **containerized, C
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 **Backend**
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
