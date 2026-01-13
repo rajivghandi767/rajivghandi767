@@ -16,9 +16,7 @@
 <br />
 
 <p align="center">
-  <em>
-    Software Engineer leveraging a background in scientific research to build robust, self-hosted systems. I combine analytical rigor with a passion for infrastructure and automation. Based in New York City. 🌍
-  </em>
+Software Engineer leveraging a background in scientific research to build robust, self-hosted systems. I combine analytical rigor with a passion for infrastructure and automation. Based in New York City. 🌍
 </p>
 
 </div>
@@ -81,17 +79,4 @@ I don't just write code; I build systems. My applications are **containerized, C
 | **[Country Trivia Web](https://github.com/rajivghandi767/country-trivia-web)** | A full-stack trivia application allowing users to test their knowledge of world capitals and flags. Features user accounts and score tracking. | `Django` `React` `PostgreSQL` `Docker` |
 | **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` |
 | **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `React` `TypeScript` `Django` `Nginx` |
-| **[Country Trivia CLI](https://github.com/rajivghandi767/country-trivia-cli)** | A command-line interface version of the trivia game, demonstrating core Python logic and data handling. | `Python` `SQLite` `Click` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivghandi767&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivghandi767&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="150" alt="languages graph" />
-</div>
-<br />
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivghandi767&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak graph" />
-</div>
+| **[Country Trivia CLI](https://github.com/rajivghandi767/country-trivia-cli)** | A command-line interface version of the trivia game, demonstrating core Python logic and data handling. | `Python` `SQLite` |
