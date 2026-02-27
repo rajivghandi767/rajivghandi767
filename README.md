@@ -29,7 +29,7 @@ I am a self-taught Software Engineer with over 4 years of previous experience in
 
 I don't just write code; I build systems. My applications are **containerized, CI/CD integrated, and self-hosted** on a custom home lab infrastructure. I am passionate about Python, Django, and the React ecosystem, and I am currently seeking roles that offer mentorship and the opportunity to tackle complex engineering problems.
 
-* 🔭 **Currently working on:** Enhancing my [Country Trivia App](https://github.com/rajivghandi767/country-trivia-web) and [Port & Ferry](https://github.com/rajivghandi767/port-and-ferry) apps.
+* 🔭 **Currently working on:** Enhancing my [Country Trivia App](https://github.com/rajivghandi767/country-trivia-web) and [Prop & Ferry](https://github.com/rajivghandi767/prop-and-ferry) apps.
 * 🧠 **Learning:** Advanced Python patterns & Data Structures/Algorithms.
 * 🤝 **Open to collaboration on:** Projects involving Travel ✈️, Tech or FinTech (Points & Miles) 💳.
 * ⚡ **Fun facts:** Avid Formula 1 Fan 🏎🦁🇳🇱 (Max Verstappen / Red Bull) | Chelsea FC Supporter 🔵⚽️.
@@ -76,7 +76,7 @@ I don't just write code; I build systems. My applications are **containerized, C
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Port & Ferry](https://github.com/rajivghandi767/port-and-ferry)** | A niche travel search tool for linking international flights to regional flights and ferries. | `Django` `React` `PostgreSQL` `Docker` |
+| **[Prop & Ferry](https://github.com/rajivghandi767/prop-and-ferry)** | A niche travel search tool for linking international flights to regional flights and ferries. | `Django` `React` `PostgreSQL` `Docker` |
 | **[Country Trivia Web](https://github.com/rajivghandi767/country-trivia-web)** | A full-stack trivia application allowing users to test their knowledge of world capitals and flags. Features user accounts and score tracking. | `Django` `React` `PostgreSQL` `Docker` |
 | **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` |
 | **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `React` `TypeScript` `Django` `Nginx` |
