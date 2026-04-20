@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello, I'm Rajiv Wallace 🇩🇲
-### Software Engineer | Full Stack Developer | DevOps Enthusiast
+### Software Engineer | Backend & DevOps
 
 <a href="https://www.linkedin.com/in/rajiv-wallace">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
