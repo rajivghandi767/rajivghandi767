@@ -16,7 +16,8 @@
 <br />
 
 <p align="center">
-Software Engineer leveraging a background in scientific research to build robust, self-hosted systems. I combine analytical rigor with a passion for infrastructure and automation. Based in New York City. 🌍
+Software Engineer applying a background in scientific research to build robust, self-hosted systems.<br />
+Based in New York City. 🌍
 </p>
 
 </div>
@@ -25,14 +26,16 @@ Software Engineer leveraging a background in scientific research to build robust
 
 ### 👨🏾‍💻 About Me
 
-I am a self-taught Software Engineer with over 4 years of previous experience in data collection and analysis as an NYC Environmental Inspector. I apply that same engineering discipline to software development. 
+Software engineering requires both creative problem-solving and rigorous structural discipline. Having spent over four years conducting data collection and analysis as an Academic Research and as a NYC Asbestos Inspector, I now apply that same analytical foundation to my approach in backend architecture and operations.
 
-I don't just write code; I build systems. My applications are **containerized, CI/CD integrated, and self-hosted** on a custom home lab infrastructure. I am passionate about Python, Django, and the React ecosystem, and I am currently seeking roles that offer mentorship and the opportunity to tackle complex engineering problems.
+My primary technical focus is bridging the gap between application development and deployment. To put this into practice, I engineered a **fully automated, secure bare-metal homelab** from the ground up using **Infrastructure as Code (IaC)**. Orchestrated through **Ansible, Terraform, Docker, and Jenkins**, my environment features a complete CI/CD pipeline that actively hosts a portfolio of full-stack Django and React applications within strict hardware constraints. 
 
-* 🔭 **Currently working on:** Enhancing my [Country Trivia App](https://github.com/rajivghandi767/country-trivia-web) and [Prop & Ferry](https://github.com/rajivghandi767/prop-and-ferry) apps.
-* 🧠 **Learning:** Advanced Python patterns & Data Structures/Algorithms.
+I am interested in robust backend decoupling, declarative configuration management, and disaster recovery planning. My immediate goal is to join a collaborative engineering team that offers mentorship and the opportunity to tackle complex, large-scale technical challenges.
+
+* 🔭 **Currently working on:** Conducting deep-dive code reviews of my repositories to refine my architectural understanding, and continuously maintaining my suite of self-hosted applications and bare-metal infrastructure.
+* 🧠 **Learning:** Sharpening my problem-solving skills by mastering Data Structures & Algorithms (LeetCode) and exploring advanced Python design patterns.
 * 🤝 **Open to collaboration on:** Projects involving Travel ✈️, Tech or FinTech (Points & Miles) 💳.
-* ⚡ **Fun facts:** Avid Formula 1 Fan 🏎🦁🇳🇱 (Max Verstappen / Red Bull) | Chelsea FC Supporter 🔵⚽️.
+* ⚡ **Fun facts:** Avid Formula 1 Fan 🏎️🦁🇳🇱 (Max Verstappen / Red Bull) | Chelsea FC Supporter 🔵⚽️.
 
 ---
 
@@ -72,12 +75,13 @@ I don't just write code; I build systems. My applications are **containerized, C
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Prop & Ferry](https://github.com/rajivghandi767/prop-and-ferry)** | A niche travel search tool for linking international flights to regional flights and ferries. | `Django` `React` `PostgreSQL` `Docker` |
-| **[Country Trivia Web](https://github.com/rajivghandi767/country-trivia-web)** | A full-stack trivia application allowing users to test their knowledge of world capitals and flags. Features user accounts and score tracking. | `Django` `React` `PostgreSQL` `Docker` |
-| **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` |
-| **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `React` `TypeScript` `Django` `Nginx` |
-| **[Country Trivia CLI](https://github.com/rajivghandi767/country-trivia-cli)** | A command-line interface version of the trivia game, demonstrating core Python logic and data handling. | `Python` `SQLite` |
+| **[Silicon Valley Trail](https://github.com/rajivghandi767/silicon-valley-trail)** | A turn-based strategy game managing technical debt and finances to travel from NYC to the Caribbean to pitch an Engineering Director. | `Django` `React` `PostgreSQL` `Redis` `Docker` `Jenkins` |
+| **[Prop & Ferry](https://github.com/rajivghandi767/prop-and-ferry)** | A niche travel search tool for linking international flights to regional flights and ferries. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` |
+| **[Country Trivia Web](https://github.com/rajivghandi767/country-trivia-web)** | A full-stack trivia application allowing users to test their knowledge of world capitals and flags. Features user accounts and score tracking. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Gemini AI` |
+| **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` `Jenkins` `Vault` `Nginx` |
+| **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Jenkins` |
+| **[Country Trivia CLI](https://github.com/rajivghandi767/country-trivia-cli)** | A command-line interface version of the trivia game, demonstrating core Python logic and data handling. | `Python 3` `CSV` |
