@@ -60,6 +60,7 @@ I am interested in robust backend decoupling, declarative configuration manageme
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 **DevOps & Tools**
@@ -82,6 +83,6 @@ I am interested in robust backend decoupling, declarative configuration manageme
 | **[Silicon Valley Trail](https://github.com/rajivghandi767/silicon-valley-trail)** | A turn-based strategy game managing technical debt and finances to travel from NYC to the Caribbean to pitch an Engineering Director. | `Django` `React` `PostgreSQL` `Redis` `Docker` `Jenkins` |
 | **[Prop & Ferry](https://github.com/rajivghandi767/prop-and-ferry)** | A niche travel search tool for linking international flights to regional flights and ferries. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` |
 | **[Country Trivia Web](https://github.com/rajivghandi767/country-trivia-web)** | A full-stack trivia application allowing users to test their knowledge of world capitals and flags. Features user accounts and score tracking. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Gemini AI` |
-| **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` `Jenkins` `Vault` `Nginx` |
-| **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Jenkins` |
+| **[HomeLab IaC](https://github.com/rajivghandi767/homelab-iac)** | Infrastructure as Code configuration for my personal home server. Manages services like Nginx, Vault, and Jenkins via Ansible & Docker. | `Ansible` `Terraform` `Bash` `Docker Compose` `Jenkins` `Vault` `Nginx` `GCS` |
+| **[Portfolio Website](https://github.com/rajivghandi767/portfolio-website)** | My personal digital resume and blog. Fully containerized with a CI/CD pipeline integrated via Jenkins. | `Django` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Jenkins` `GCS` |
 | **[Country Trivia CLI](https://github.com/rajivghandi767/country-trivia-cli)** | A command-line interface version of the trivia game, demonstrating core Python logic and data handling. | `Python 3` `CSV` |
