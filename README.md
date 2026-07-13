@@ -28,7 +28,7 @@ Based in New York City. 🌍
 
 Software engineering requires both creative problem-solving and rigorous structural discipline. Having spent over four years conducting data collection and analysis as an Academic Research and as a NYC Asbestos Inspector, I now apply that same analytical foundation to my approach in backend architecture and operations.
 
-My primary technical focus is bridging the gap between application development and deployment. To put this into practice, I engineered a **fully automated, secure bare-metal homelab** from the ground up using **Infrastructure as Code (IaC)**. Orchestrated through **Ansible, Terraform, Docker, and Jenkins**, my environment features a complete CI/CD pipeline that actively hosts a portfolio of full-stack Django and React applications within strict hardware constraints. 
+My primary technical focus is bridging the gap between application development and deployment. To put this into practice, I engineered a **fully automated, secure bare-metal homelab** from the ground up using **Infrastructure as Code (IaC)**. Orchestrated through **Ansible, Terraform and Docker**, my environment features a complete CI/CD pipeline that actively hosts a portfolio of full-stack Django and React applications within strict hardware constraints. 
 
 I am interested in robust backend decoupling, declarative configuration management, and disaster recovery planning. My immediate goal is to join a collaborative engineering team that offers mentorship and the opportunity to tackle complex, large-scale technical challenges.
 
@@ -71,6 +71,7 @@ I am interested in robust backend decoupling, declarative configuration manageme
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
